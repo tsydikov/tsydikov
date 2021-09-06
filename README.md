@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @tsydikov
 - 👀 I’m interested in front end development
 - 💞️ I’m looking to collaborate on interestng projects
+<ul>My most difficult projects
+   <li><a href="https://github.com/tsydikov/reactTodo">Todo list App</a></li>
+</ul>
 <ul>My best tests projects
   <li><a href="https://github.com/tsydikov/weather-app">Weather App</a></li>
   <li><a href="https://github.com/tsydikov/tsydikov.github.io">Tie-Toe game</a></li>
