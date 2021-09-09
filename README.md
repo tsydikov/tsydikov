@@ -22,7 +22,7 @@
 <li>React Transition Group</li>
 <li>axios fetch</li>
 <li>React.js</li>
-<li>Redux</li>
+<li>Redux / Mobx</li>
 <li>Typescript</li>
 <li>Next.js</li>
 </ul>
