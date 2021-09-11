@@ -10,6 +10,7 @@
   <li><a href="https://github.com/tsydikov/react_typescript_todo">Todo list App using React + Typescript</a></li>
   <li><a href="https://github.com/tsydikov/StarNaviTestTask.git">Test task for StarNavi</a></li>
   <li><a href="https://github.com/tsydikov/react_test_task_part2.git">Authorization form</a></li>
+  <li><a href="https://github.com/tsydikov/diary.git">Diary App</a></li>
 </ul>
 <ul>My stack:
 <li>HTML</li>
@@ -17,6 +18,7 @@
 <li>CSS</li>
 <li>SCSS</li>
 <li>Styled component</li>
+<li>Canvas API</li>
 <li>Bootstrap</li>
 <li>Universal UI</li>
 <li>React Transition Group</li>
