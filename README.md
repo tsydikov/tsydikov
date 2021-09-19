@@ -13,6 +13,7 @@
   <li><a href="https://github.com/tsydikov/diary.git">Diary App</a></li>
 </ul>
 <ul>My stack:
+<li>Javascript</li>
 <li>HTML</li>
 <li>ES 6</li>
 <li>CSS</li>
