@@ -27,4 +27,6 @@
 <li>Redux / Mobx</li>
 <li>Typescript</li>
 <li>Next.js</li>
+<li>Node.js</li>
+<li>Express</li>
 </ul>
