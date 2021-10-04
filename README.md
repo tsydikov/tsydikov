@@ -6,11 +6,12 @@
       <li><a href="https://github.com/tsydikov/cloud-disk-front">Cloud disk Client</a></li>
       <li><a href="https://github.com/tsydikov/cloud-disk-back">Cloud disk Server</a></li>
    </ul></li>
+   <li><a href="https://github.com/tsydikov/superhero_database">Superhero database</a></li>
 </ul>
 <ul>Project that shows the skills of using React.js
    <li><a href="https://github.com/tsydikov/reactTodo">Todo list App</a></li>
 </ul>
-<ul>My best tests projects
+<ul>My best Front end tests projects
   <li><a href="https://github.com/tsydikov/weather-app">Weather App</a></li>
   <li><a href="https://github.com/tsydikov/tsydikov.github.io">Tie-Toe game</a></li>
   <li><a href="https://github.com/tsydikov/react_typescript_todo">Todo list App using React + Typescript</a></li>
