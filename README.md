@@ -40,6 +40,7 @@
 <li>Typescript</li>
 <li>Next.js</li>
 <li>Node.js</li>
+<li>Nest</li>
 <li>Express</li>
 <li>MongoDb</li>
 <li>PostgresQL</li>
