@@ -2,6 +2,7 @@
 - 👀 I’m interested in full stack development
 - 💞️ I’m looking to collaborate on interestng projects
 <ul>My Full stack projects:
+   <li><a href="https://github.com/tsydikov/make-choice">Application for tracking the work of company employees</a></li>
    <li><a href="https://github.com/tsydikov/online-store">Online shop</a></li>
    <li><ul>Cloud disk App
       <li><a href="https://github.com/tsydikov/cloud-disk-front">Cloud disk Client</a></li>
