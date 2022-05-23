@@ -36,7 +36,7 @@
 <li>axios fetch</li>
 <li>Javascript</li>
 <li>React.js</li>
-<li>Redux / Mobx</li>
+<li>Redux / Mobx / Effector</li>
 <li>Typescript</li>
 <li>Next.js</li>
 <li>Node.js</li>
