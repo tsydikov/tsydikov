@@ -91,13 +91,3 @@ Employee work-status tracking app with role-based access and admin dashboard.
 **AI** — OpenAI API · data vectorization · embeddings · RAG architecture
 
 **Tools** — Jest · Swagger / OpenAPI · Sentry · Git
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsydikov&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
----
-
-📧 tsydikov@gmail.com · [LinkedIn](https://linkedin.com/in/kyrylo-tsudikov)
